@@ -13,6 +13,11 @@
 - 1.0.2 [2022-05-08]
     - create token file
     - create main file
+    
+## Addendum
+
+- 로스트아크 패치노트
+- 롤 패치노트
 
 ## Help
 
