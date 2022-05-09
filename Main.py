@@ -6,4 +6,9 @@ import nest_asyncio
 nest_asyncio.apply()
 
 bot = pika.getting_started()
+
+@bot.command(aliases=['안녕'])
+async def hi(ctx):
+    await ctx.send(f'안녕하세요 {ctx.author.mention} 님')
+
 bot.run(token.get_token())
