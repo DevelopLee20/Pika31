@@ -1,8 +1,8 @@
 # Pika31
 
 - name : Pika31(discord bot)
-- version : 1.1.0
-- latest updated : 2022-05-09 19:58
+- version : 1.1.1
+- latest updated : 2022-05-09 20:34
 
 ## Release Note
 
@@ -15,6 +15,9 @@
     - create main file
 - 1.1.0 [2022-05-09]
     - create say hello function
+- 1.1.1 [2022-05-09]
+    - create batch(.bat) file
+    - add print code in function 'hi'
     
 ## Addendum
 
@@ -23,6 +26,7 @@
 - 자연어 처리 대화 가능하게, 라이브러리 따와서
 - 노래 틀어주는 기능
 - Pika31.py Class 구조로 변경, await 방식 구동가능하도록
+- 로그 저장 기능
 
 ## Help
 

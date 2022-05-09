@@ -12,6 +12,7 @@ command_word = '!'
 getting_started : setting bot's status and return bot instance
 '''
 def getting_started():
+    print('Pika31 is running! . . .')
     status = discord.Game(app_status)
     return commands.Bot(
         command_prefix=command_word,
